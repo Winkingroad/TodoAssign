@@ -32,7 +32,7 @@ This repository contains a simple Todo App built with React and Redux. It allows
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone
 
 ## Setup Instructions
 
